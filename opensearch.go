@@ -1,4 +1,4 @@
-package gosdk
+package opensearchsdk
 
 import (
 	"bytes"
